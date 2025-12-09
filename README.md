@@ -1,16 +1,59 @@
-## Hi there 👋
+# David Gbadamosi 👋
 
-<!--
-**Dcomtech1/Dcomtech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Data Scientist | Data Annotator | AI Enthusiast**
 
-Here are some ideas to get you started:
+I am passionate about working with data — cleaning it, analyzing it, labeling it, and turning it into meaningful insights and intelligent systems. I enjoy solving real-world problems through data and building models that make sense of complex information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+
+- Data Analysis & Visualization  
+- Data Cleaning & Preprocessing  
+- Data Annotation & Quality Assurance  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning (Beginner–Intermediate)  
+- Model Evaluation & Optimization  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python  
+- SQL  
+- Git & GitHub  
+- Jupyter Notebook  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+
+---
+
+## 📌 Featured Projects
+
+### 🐶 Dog Breed Image Classifier
+Image classification project using CNN architectures (AlexNet, VGG, and ResNet) to identify dog breeds.  
+🔗 https://github.com/Dcomtech1/Dog-breed-image-classifier
+
+### 💬 Sentiment Analysis Project
+A Natural Language Processing project focused on classifying movie reviews based on sentiment.  
+🔗 https://github.com/Dcomtech1/sentimentscope-imdb-analysis
+
+---
+
+## 📊 GitHub Overview
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcomtech1&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dcomtech1&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/davidgbadamosi/
+- **Email:** dcomtech16@gmail.com
+
+---
+
+_"Data is not just numbers — it’s a story waiting to be understood."_ 📊✨
