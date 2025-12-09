@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+David+Gbadamosi;Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;I+Love+Working+With+Data;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Hi,+I'm+David+Gbadamosi;Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;I+Love+Working+With+Data;Turning+Raw+Data+Into+Powerful+Insights" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">David Gbadamosi</h1>
 <h3 align="center">Data Analyst • Data Scientist • Data Annotator • AI Enthusiast</h3>
