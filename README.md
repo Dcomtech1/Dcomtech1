@@ -43,9 +43,10 @@ A Natural Language Processing project focused on classifying movie reviews based
 
 ## 📊 GitHub Overview
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcomtech1&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcomtech1&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dcomtech1&layout=compact)
+
 
 ---
 
