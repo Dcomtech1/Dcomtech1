@@ -22,7 +22,7 @@ I thrive in environments where data meets impact.
 - Data Cleaning & Transformation  
 - Data Annotation & Quality Control  
 - Exploratory Data Analysis (EDA)  
-- Machine Learning Fundamentals  
+- Machine Learning  
 - NLP & Text Processing  
 - Model Evaluation & Optimization  
 
