@@ -1,99 +1,95 @@
-# David Gbadamosi
-
-AI engineer and data-focused software developer building practical products at the intersection of Python, machine learning, and real-world automation.
-
-I am based in Nigeria and open to remote opportunities in AI engineering, data science, machine learning, data analysis, and Python/software engineering roles.
-
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/davidgbadamosi/) • [GitHub](https://github.com/Dcomtech1) • [Email](mailto:dcomtech16@gmail.com) • [Crenelle](https://www.crenelle.org)
+# Hi, I'm David 👋
+
+### AI Engineer · Data Scientist · Software Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+with+Python%2C+data%2C+and+AI;Evaluating+AI+agents;Turning+ideas+into+working+products" alt="Building with Python, data, and AI. Evaluating AI agents. Turning ideas into working products." />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgbadamosi/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcomtech16@gmail.com)
+[![Crenelle](https://img.shields.io/badge/Crenelle-Explore_the_product-7C3AED?style=for-the-badge&logoColor=white)](https://www.crenelle.org)
 
 </div>
 
-## About me
+---
 
-I build useful AI and data products with a strong focus on applied work: model evaluation, predictive analytics, NLP, product tooling, and clean software that other people can use.
+### 🧑🏽‍💻 A little about me
 
-My background includes:
-- B.Tech. in Computer Science, LAUTECH (CGPA 4.35/5.0)
-- Completed AltSchool Africa Data Science program
-- AWS Future AI Scientist Nanodegree
-- Data & Insights Intern at ARM HoldCo, where I received the Best Intern award
-- Work on AI evaluation and benchmark workflows with Abundant AI, completed in August 2026
-- Building Crenelle, a live event-registration, ticketing, guest-management, and QR check-in product
+I like figuring things out—why a model fails, what a dataset reveals, or how to turn an idea into something people can use.
 
-## Featured work
+My work spans **AI evaluation, machine learning, analytics, and Python development**. Previously at **Abundant AI**, I designed and validated data-science benchmark tasks for AI agents. These days, I'm also co-building **Crenelle**.
 
-### Crenelle
-A live event-management product for registration, ticketing, guest check-in, QR validation, and host workflows.
+🎓 Computer Science, LAUTECH · **4.35/5.0**  
+🏆 ARM HoldCo **Best Intern, 2024**  
+🌍 Based in Nigeria · **Open to remote opportunities**
 
-This project shows my ability to build practical software for real users, not just notebooks and demos.
+---
 
-- Product link: https://www.crenelle.org
-- Role: co-builder and product contributor
-- Skills demonstrated: product thinking, workflow design, event operations, deployment and delivery
+### 🚀 Building Crenelle
 
-### Dog Breed Image Classifier
-A Python project that evaluates pretrained CNNs for dog detection and breed classification. It compares multiple architectures and records model performance on a labeled image set.
+**Less friction at the door. More focus on the event.**
 
-- Repository: https://github.com/Dcomtech1/Dog-breed-image-classifier
-- Demonstrates: computer vision, model evaluation, CNN benchmarking, experiment reporting
+A live platform for event registration, ticketing, guest management, and QR check-in.
 
-### SentimentScope
-A sentiment-analysis notebook for IMDB reviews, focused on text preprocessing and binary classification.
+🎟️ Registration & ticketing &nbsp; · &nbsp; 📱 QR validation &nbsp; · &nbsp; 👥 Organizer workflows
 
-- Repository: https://github.com/Dcomtech1/sentimentscope-imdb-analysis
-- Demonstrates: NLP, data preprocessing, feature engineering, model evaluation
+**[Visit Crenelle ↗](https://www.crenelle.org)**
 
-### Nova Transcribe
-A FastAPI application that uploads audio/video, runs Faster-Whisper transcription, and exports a DOCX transcript.
+---
 
-- Repository: https://github.com/Dcomtech1/whisper-transcriber-site
-- Demonstrates: Python backend development, transcription workflows, API design, file processing
+### 🧩 Explore my work
 
-### NUPAT AI Fellowship case study
-A data-analysis notebook focused on trading activity, user behavior, and fraud-pattern analysis using Python and scikit-learn.
+| | Project | What’s inside |
+| :---: | :--- | :--- |
+| 🎙️ | **[Nova Transcribe](https://github.com/Dcomtech1/whisper-transcriber-site)** | FastAPI + Faster-Whisper transcription with Word document export. |
+| 🐶 | **[Dog Breed Classifier](https://github.com/Dcomtech1/Dog-breed-image-classifier)** | Comparing pretrained AlexNet, VGG, and ResNet models for dog and breed identification. |
+| 💬 | **[SentimentScope](https://github.com/Dcomtech1/sentimentscope-imdb-analysis)** | Exploring movie-review sentiment through text preprocessing and classification. |
 
-- Repository: https://github.com/Dcomtech1/NUPAT-AI-FELLOWSHIP---STAGE-TWO-CASE-STUDY-ASSESSMENT
-- Demonstrates: data analysis, EDA, feature engineering, classification workflows
+---
 
-## Skills
+### ⚡ My toolkit
 
-### AI and data
-- Python
-- SQL
-- pandas
-- NumPy
-- scikit-learn
-- XGBoost
-- PyTorch
-- SHAP
-- Power BI
-- Tableau
+**Languages & data**
 
-### Software and deployment
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- Supabase
-- Docker
-- Git
-- AWS
+<img src="https://skillicons.dev/icons?i=python,postgres,javascript&theme=dark" alt="Python, PostgreSQL, JavaScript" />
 
-## Education and experience
+**Machine learning & analytics**
 
-- B.Tech. in Computer Science, LAUTECH — CGPA 4.35/5.0
-- Completed AltSchool Africa Data Science program
-- AWS Future AI Scientist Nanodegree
-- Data & Insights Intern, ARM HoldCo — Best Intern award
-- AI evaluation workflows, Abundant AI — completed August 2026
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 
-## Contact
+**Backend & development**
 
-- LinkedIn: https://www.linkedin.com/in/davidgbadamosi/
-- Email: dcomtech16@gmail.com
-- Remote availability: Open to remote opportunities
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,docker,git,linux,aws&theme=dark" alt="FastAPI, Supabase, Docker, Git, Linux, AWS" />
 
-## Notes
+---
 
-I keep my public repos focused on work that is easy to understand, review, and talk about in interviews. Some projects are learning exercises, while others reflect applied product and analysis work.
+<details>
+<summary>📊 A peek at my GitHub activity</summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dcomtech1&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub activity statistics" />
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+
+**Have something interesting to build or figure out?**  
+[Let's talk.](mailto:dcomtech16@gmail.com)
+
+</div>
