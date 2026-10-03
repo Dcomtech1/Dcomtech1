@@ -16,6 +16,7 @@ I build useful AI and data products with a strong focus on applied work: model e
 
 My background includes:
 - B.Tech. in Computer Science, LAUTECH (CGPA 4.35/5.0)
+- Completed AltSchool Africa Data Science program
 - AWS Future AI Scientist Nanodegree
 - Data & Insights Intern at ARM HoldCo, where I received the Best Intern award
 - Work on AI evaluation and benchmark workflows with Abundant AI, completed in August 2026
@@ -82,6 +83,7 @@ A data-analysis notebook focused on trading activity, user behavior, and fraud-p
 ## Education and experience
 
 - B.Tech. in Computer Science, LAUTECH — CGPA 4.35/5.0
+- Completed AltSchool Africa Data Science program
 - AWS Future AI Scientist Nanodegree
 - Data & Insights Intern, ARM HoldCo — Best Intern award
 - AI evaluation workflows, Abundant AI — completed August 2026
